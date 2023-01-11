@@ -1,5 +1,12 @@
 .section 
     {background-color: #222035;
     padding-top: 50px;
-    padding-bottom: 100px;
-    border-bottom: 10px solid black;}
+    padding-bottom: 100px;}
+
+.section .main-title
+    {margin-bottom: 60px;}
+
+.section-projects
+    {border-top: 10px solid #31667b;
+    background-color: black;
+    padding-bottom: 100px;}

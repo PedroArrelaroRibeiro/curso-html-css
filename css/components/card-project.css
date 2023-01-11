@@ -1,0 +1,19 @@
+.card-project
+    {display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #222035;
+    width: 280px;
+    height: 280px;
+    box-shadow: 5px 5px 0px white;}
+
+.card-project.-blue
+    {display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#31667b;
+    width: 280px;
+    height: 280px;
+    box-shadow: 5px 5px 0px white;}
+
+
